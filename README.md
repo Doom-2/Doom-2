@@ -33,4 +33,21 @@ Here are some ideas to get you started:
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Doom-2&style=flat-square&color=blue" alt=""/>
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+</div>
+
+---
+
+### :man_office_worker: About Me :
+
+I am a Backend Developer on Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15"> from Russia.
+
+- :telescope: I’m working as a Software Engineer and contributing to server part for building web applications.
+
+- :seedling: Exploring the latest Technology Trends.
+
+- :runner: Loves science, programming, and a great adventure. Oh, and running and skiing, because motion is life!
+
+- :envelope_with_arrow: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gmail-ece9e9?style=flat&logo=gmail&logoColor=c71610)](mailto:phramov945@gmail.com)
