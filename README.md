@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ### :man_office_worker: About Me :
 
 I am a Backend Developer on Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15"> from Russia.
+- :computer: My talents are Python3, Django, Flask, PostgreSQL, Docker, HTML
 
 - :telescope: I’m working as a Software Engineer and contributing to server part for building web applications.
 
