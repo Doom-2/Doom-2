@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Postgres-737fff?style=for-the-badge&logo=postgresql&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-ff5427?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/HTML-ff5427?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-4870ff?style=for-the-badge&logo=docker&logoColor=white" alt="LinkedIn Badge"/>
