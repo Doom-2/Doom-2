@@ -66,6 +66,6 @@ I am a Backend Developer on Python <img src="https://media.giphy.com/media/KAq5w
 
 - :seedling: Exploring the latest Technology Trends.
 
-- :runner: Loves science, programming, and a great adventure. Oh, and running and skiing, as motion is life!
+- :runner: Loves science, travelling and have fun. Oh, and running and skiing, as motion is life.
 
 - :envelope_with_arrow: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gmail-d4d1d1?style=flat&logo=gmail&logoColor=c71610)](mailto:phramov945@gmail.com)
