@@ -17,28 +17,38 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/YTXsHaOQECQRISfDpv/giphy.gif" width="100"/>
   
   <h1>
-  hey there
+  Hi, I'm Peter
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
   <div id="badges">
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-174394?style=for-the-badge&logo=python&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Python-174394?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
   <a href="https://www.djangoproject.com/">
-    <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/en/2.2.x/">
-    <img src="https://img.shields.io/badge/Flask-868686?style=for-the-badge&logo=flask&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Postgres-737fff?style=for-the-badge&logo=postgresql&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Postgres-737fff?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   </a>
+  <a href="https://docs.celeryq.dev/en/stable/">
+    <img src="https://img.shields.io/badge/Celery-b6de64?style=for-the-badge&logo=celery&logoColor=black" alt="Celery Badge"/>
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-lightgrey?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas Badge"/>
+  </a>
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML-ff5427?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/HTML-ff5427?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-4870ff?style=for-the-badge&logo=docker&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Docker-4870ff?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="https://img.shields.io/badge/Redis-dc382c?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
+  </a>
+  <a href="https://docs.pytest.org/">
+    <img src="https://img.shields.io/badge/PyTest-009fe3?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest Badge"/>
   </a>
  <br>
   <a href="https://www.linkedin.com/in/petr-khramov-b872b0232/">
@@ -46,9 +56,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.youtube.com/channel/UCoj0ANSd_UlBdky1TBQ56nw">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.instagram.com/_doom_2/">
-  <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Doom-2&style=flat-square&color=blue" alt=""/>
@@ -62,9 +69,8 @@ Here are some ideas to get you started:
 ### :man_office_worker: About Me :
 
 I am a Backend Developer on Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15"> from Russia.
-- :computer: My talents are Python3, Django, Flask, PostgreSQL, Docker, HTML
-
-- :seedling: Exploring the latest Technology Trends.
+- :computer: I connect the server to the client side, integrate the database into the app, test
+the result, configure the queue.
 
 - :runner: Loves science, travelling and have fun. Oh, and running and skiing, as motion is life.
 
