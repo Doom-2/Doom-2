@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### :man_office_worker: About Me :
 
-I am a Backend Developer on Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15"> from Russia.
+Results-oriented specialist in Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15"> backend development.
 - :computer: I connect the server to the client side, integrate the database into the app, test
 the result, configure the queue.
 
