@@ -72,6 +72,6 @@ Results-oriented specialist in Python <img src="https://media.giphy.com/media/KA
 - :computer: I connect the server to the client side, integrate the database into the app, test
 the result, configure the queue.
 
-- :runner: Loves science, travelling and have fun. Oh, and running and skiing, as motion is life.
+- :runner: Loves science, travelling, skiing and have fun. Oh, and overcoming fear, as it is the only way to move on.
 
 - :envelope_with_arrow: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gmail-d4d1d1?style=flat&logo=gmail&logoColor=c71610)](mailto:phramov945@gmail.com)
