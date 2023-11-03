@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   </a>
-  <a href="https://www.python.org/">
+  <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/C++-649ad2?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Python Badge"/>
   </a>
   <a href="https://docs.celeryq.dev/en/stable/">
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### :man_office_worker: About Me :
 
-Results-oriented specialist in Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15"> backend development.
+I am fond of Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">  and C++ a little.
 - :computer: I connect the server to the client side, integrate the database into the app, test
 the result, configure the queue.
 
