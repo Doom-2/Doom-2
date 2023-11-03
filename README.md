@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 ### :man_office_worker: About Me :
 
-I am fond of Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">  and C++ a little.
+Fond of Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">  and C++ a little.
 - :computer: I connect the server to the client side, integrate the database into the app, test
 the result, configure the queue.
 
