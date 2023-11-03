@@ -28,8 +28,8 @@ Here are some ideas to get you started:
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Postgres-737fff?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/C++-649ad2?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Python Badge"/>
   </a>
   <a href="https://docs.celeryq.dev/en/stable/">
     <img src="https://img.shields.io/badge/Celery-b6de64?style=for-the-badge&logo=celery&logoColor=black" alt="Celery Badge"/>
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
   <a href="https://redis.io/">
     <img src="https://img.shields.io/badge/Redis-dc382c?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"/>
   </a>
-  <a href="https://docs.pytest.org/">
-    <img src="https://img.shields.io/badge/PyTest-009fe3?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest Badge"/>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/Postgres-737fff?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   </a>
  <br>
   <a href="https://www.linkedin.com/in/petr-khramov-b872b0232/">
