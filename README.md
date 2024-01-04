@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/YTXsHaOQECQRISfDpv/giphy.gif" width="50"/>
   
   <h1>
-  Hi, I'm Peter
+  Hi
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>-->
 </h1>
   
@@ -68,10 +68,9 @@ Here are some ideas to get you started:
 
 ### :man_office_worker: About Me :
 
-Fond of Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">  and C++ a little.
-- :computer: I connect the server to the client side, integrate the database into the app, test
-the result, configure the queue.
+Fond of C++ and Python <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="15">.
+- :computer: I enjoy creating short and usefull programs.
 
-- :runner: Loves science, travelling, skiing and have fun. Oh, and overcoming fear, as it is the only way to move on.
+- :runner: Loves running, skiing and have fun. And overcoming fear, as it is the only way to move on.
 
-- :envelope_with_arrow: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gmail-d4d1d1?style=flat&logo=gmail&logoColor=c71610)](mailto:phramov945@gmail.com)
+- :envelope_with_arrow: Reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gmail-d4d1d1?style=flat&logo=gmail&logoColor=c71610)](mailto:phramov945@gmail.com)
